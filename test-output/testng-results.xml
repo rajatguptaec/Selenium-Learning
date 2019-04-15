@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestNGSuite" duration-ms="81555" started-at="2019-04-14T03:52:48Z" finished-at="2019-04-14T03:54:10Z">
+    <groups>
+    </groups>
+    <test name="testngTest1" duration-ms="24" started-at="2019-04-14T03:52:48Z" finished-at="2019-04-14T03:52:48Z">
+      <class name="forTestNG.TestngAnnoatationPractice">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:forTestNG.TestngAnnoatationPractice@483bf400]" name="beforeTest" is-config="true" duration-ms="1" started-at="2019-04-14T09:22:48Z" finished-at="2019-04-14T09:22:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:forTestNG.TestngAnnoatationPractice@483bf400]" name="testCase1" duration-ms="5" started-at="2019-04-14T09:22:48Z" finished-at="2019-04-14T09:22:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:forTestNG.TestngAnnoatationPractice@483bf400]" name="afterTest" is-config="true" duration-ms="1" started-at="2019-04-14T09:22:48Z" finished-at="2019-04-14T09:22:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- forTestNG.TestngAnnoatationPractice -->
+    </test> <!-- testngTest1 -->
+    <test name="testngTest2" duration-ms="81472" started-at="2019-04-14T03:52:48Z" finished-at="2019-04-14T03:54:10Z">
+      <class name="forTestNG.NewTest1">
+        <test-method status="PASS" signature="Testcase1()[pri:0, instance:forTestNG.NewTest1@6ad5c04e]" name="Testcase1" is-config="true" duration-ms="36673" started-at="2019-04-14T09:22:48Z" finished-at="2019-04-14T09:23:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase1 -->
+        <test-method status="PASS" signature="Testcase2()[pri:0, instance:forTestNG.NewTest1@6ad5c04e]" name="Testcase2" duration-ms="44795" started-at="2019-04-14T09:23:25Z" finished-at="2019-04-14T09:24:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase2 -->
+      </class> <!-- forTestNG.NewTest1 -->
+      <class name="forTestNG.TestngAnnoatationPractice">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:forTestNG.TestngAnnoatationPractice@483bf400]" name="beforeSuite" is-config="true" duration-ms="14" started-at="2019-04-14T09:22:48Z" finished-at="2019-04-14T09:22:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:forTestNG.TestngAnnoatationPractice@483bf400]" name="afterSuite" is-config="true" duration-ms="0" started-at="2019-04-14T09:24:10Z" finished-at="2019-04-14T09:24:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- forTestNG.TestngAnnoatationPractice -->
+    </test> <!-- testngTest2 -->
+  </suite> <!-- TestNGSuite -->
+</testng-results>

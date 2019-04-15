@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestNGSuite">
+	<test name="testngTest1">
+		<classes>
+			<class name="forTestNG.TestngAnnoatationPractice" />
+		</classes>
+	</test>
+
+	<test name="testngTest2">
+		<classes>
+			<class name="forTestNG.NewTest1" />
+		</classes>
+	</test>
+
+</suite>
